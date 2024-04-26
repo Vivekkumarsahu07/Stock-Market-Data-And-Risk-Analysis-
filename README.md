@@ -1,4 +1,4 @@
-# STOCK MARKET DATA ANALYSIS
+# STOCK MARKET DATA AND RISK ANALYSIS
 
 ### Headlines for analysis.py.
 -> **Gathering and Analyzing Stock Data**
